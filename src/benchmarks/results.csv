@@ -1,0 +1,14 @@
+model,prompt_id,prompt,tokens,latency_sec,ttft_sec,tokens_per_sec,semantic_accuracy
+model-fp16,1,What is LLM hallucination?,186,39.24,2.647,4.74,0.6141
+model-fp16,2,What is ChatGPT?,221,54.831,2.435,4.03,0.6836
+model-fp16,1,What is Artificial Intelligence?,245,57.117,1.403,4.29,0.7119
+
+model-int4,1,What is LLM hallucination?,244,590.648,2.323,0.41,0.5692
+model-int4,2,What is ChatGPT?,241,593.313,4.506,0.41,0.7465
+model-int4,1,What is Artificial Intelligence?,235,573.313,2.99,0.41,0.7253
+model-int8,2,What is ChatGPT?,203,90.471,6.25,2.24,0.7813
+model-int8,1,What is LLM hallucination?,244,99.799,6.339,2.44,0.6626
+model-int8,1,What is Artificial Intelligence?,248,59.726,3.59,4.15,0.7013
+model-q4_0.gguf,1,What is LLM hallucination?,251,22.844,0.886,10.99,0.5543
+model-q4_0.gguf,2,What is ChatGPT?,252,22.914,0.689,11.0,0.7021
+model-q4_0.gguf,1,What is Artificial Intelligence?,246,15.04,0.409,16.36,0.678
