@@ -1,0 +1,9 @@
+2026-01-19T12:21:33.771683 | [a6c39892-df5b-4fb6-b162-f368d86a49f2] /chat started | chat_id=5c2c3303-84f8-4e20-8e87-830a309b7ce0
+2026-01-19T12:21:33.773849 | [a6c39892-df5b-4fb6-b162-f368d86a49f2] streaming | model=src/quantized/model-q4_0.gguf | msgs=2
+2026-01-19T12:21:46.216995 | [a6c39892-df5b-4fb6-b162-f368d86a49f2] /chat completed | chat_id=5c2c3303-84f8-4e20-8e87-830a309b7ce0 | turns=3
+2026-01-19T12:22:43.228183 | [ef9c00e9-75db-4a16-8ac7-a77cc4772564] /chat started | chat_id=dd4541c7-fa08-469e-ab04-b9abf03cbc94
+2026-01-19T12:22:43.229798 | [ef9c00e9-75db-4a16-8ac7-a77cc4772564] streaming | model=src/quantized/model-q4_0.gguf | msgs=1
+2026-01-19T12:22:57.334692 | [ef9c00e9-75db-4a16-8ac7-a77cc4772564] /chat completed | chat_id=dd4541c7-fa08-469e-ab04-b9abf03cbc94 | turns=2
+2026-01-19T12:23:27.770294 | [4140c35f-620d-436b-babd-9d551bcfc44f] /chat started | chat_id=513abe58-4d5e-46ed-a11c-e535bf36e572
+2026-01-19T12:23:27.771606 | [4140c35f-620d-436b-babd-9d551bcfc44f] streaming | model=src/quantized/model-q4_0.gguf | msgs=1
+2026-01-19T12:23:40.509829 | [4140c35f-620d-436b-babd-9d551bcfc44f] /chat completed | chat_id=513abe58-4d5e-46ed-a11c-e535bf36e572 | turns=2
