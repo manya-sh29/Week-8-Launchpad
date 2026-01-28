@@ -1,2 +1,5 @@
 /.venv
 src/quantized
+src/inference/model_fp16
+llama.cpp
+src/deployment/__pycache__
